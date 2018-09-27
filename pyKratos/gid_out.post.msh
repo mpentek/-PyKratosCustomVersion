@@ -1,0 +1,10 @@
+MESH "outmesh" dimension 3 ElemType Linear Nnode 2
+Coordinates
+1 0 0 0.0
+2 2 -2 0.0
+3 6 0 0.0
+end coordinates
+Elements
+1 1 2 0.0
+2 2 3 0.0
+end elements
